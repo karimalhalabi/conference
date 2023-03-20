@@ -1,26 +1,26 @@
 # Conference Attendence
 
-This project is the frontend build of a complete  MERN fullstack project 
+This project is a partial frontend build of a complete  MERN fullstack project 
 
 
-## the Backend
+## The Backend
 
 ## Libraries used on Backend
 ### cors, dotenv, express, http, mysql2, sequelize
 ### serve-favicon, socket.io, typescript, xlsx
 
-The back end extract the data either from:
+The Backend extract the data from either:
 1. excel files e.g. organization phone directory or stuadents registered for transportation.
 2. mySQL database where insert, update, delete and retrieve of data is involved. like the detist coference data
 3. websockets is used fro communications with technical support.
 
-## the Frontend
+## The Frontend
 
 ## Libraries used on Frontend
 ### axios, formik, react, react-dom, react-query, raect-router-dom
 ### socket.io-client, typescript, xlsx
 
-On the frontend the followings are emplemented:
+On the frontend the followings are implemented:
 1. a user login menu. try User: "admin" and any password. only this is working with this build. 
 2. You get transferred to a menu when pressing the only LOGO BUTTON you get the full menu.
     21. DentistConference Application.
@@ -46,15 +46,15 @@ it allows the folloing Operations:
 7. If you logged in with Admin or transport manager you can view list of students registered for transport.
 8. Can view The organization's phone directory.
 
-## Update and new attendee form are validated.
+## Update and new attendee forms are validated.
 ## The search works by attendee number and/or name
 
-### all Icons Logos and screens are designed by Abdulkarim Alhalabi 
-### frontend and backend programming where developed by Abdulkarim Alhalabi
+### All Icons Logos and screens are designed by Abdulkarim Alhalabi 
+### Frontend and Backend programming where developed by Abdulkarim Alhalabi
 ### Abdulkarim Alhalabi, karim@consultant.com, +963991566246
 
-### The Only feature that is working in this build is the dentistconference
-### which is accessed by clicking the tooth icon in the menu
+### The Only feature that is working in this build is the dentistconference sample
+### which is accessed by clicking the tooth icon in the menu after log in with admin account.
 
 
 
