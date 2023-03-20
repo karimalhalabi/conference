@@ -2,7 +2,12 @@
 
 This project is the frontend build of a complete  MERN fullstack project 
 
-## the Backend 
+
+## the Backend
+
+## Libraries used on Backend
+### cors, dotenv, express, http, mysql2, sequelize
+### serve-favicon, socket.io, typescript, xlsx
 
 The back end extract the data either from:
 1. excel files e.g. organization phone directory or stuadents registered for transportation.
@@ -10,6 +15,10 @@ The back end extract the data either from:
 3. websockets is used fro communications with technical support.
 
 ## the Frontend
+
+## Libraries used on Frontend
+### axios, formik, react, react-dom, react-query, raect-router-dom
+### socket.io-client, typescript, xlsx
 
 On the frontend the followings are emplemented:
 1. a user login menu. try User: "admin" and any password. only this is working with this build. 
