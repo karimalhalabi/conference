@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fbc27851.css",
+    "main.js": "/static/js/main.983d0016.js",
+    "static/media/confLogo.png": "/static/media/confLogo.d256edd13769d04ac6d8.png",
+    "static/media/Roboto-Black.ttf": "/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
+    "static/media/Cairo-Regular.woff": "/static/media/Cairo-Regular.6e9535a6429bc3d7c534.woff",
+    "static/media/chat.svg": "/static/media/chat.bc2ecf1acb34f3af0a00690edb6ff5e0.svg",
+    "static/media/dragNDrop.svg": "/static/media/dragNDrop.a30310ca85e778c78b3afcb26d651f45.svg",
+    "static/media/wpuLogo.svg": "/static/media/wpuLogo.d736e745cfeb7d4982879d1c88eb33e8.svg",
+    "static/media/Tajawal.woff": "/static/media/Tajawal.aca3ae0a36e50063d588.woff",
+    "static/media/contactUs.svg": "/static/media/contactUs.9c6c0b6e9b6a1b2a326a8d479325fc65.svg",
+    "static/media/dentist.svg": "/static/media/dentist.5f29c4e676a40223af03cb74c5cf2590.svg",
+    "static/media/transport.svg": "/static/media/transport.ff8122b2e15b39ab775cd57f99ed4f35.svg",
+    "static/media/user.svg": "/static/media/user.60d5346ae13026721024752242061ba3.svg",
+    "static/media/about.svg": "/static/media/about.158ee0a96214e618151d9ead597ff5a8.svg",
+    "static/media/phoneBook.svg": "/static/media/phoneBook.f4a169dede7bb07acfe880b68a22a093.svg",
+    "static/media/wpuLogoNoTitle.svg": "/static/media/wpuLogoNoTitle.45301694cb08041b92fb05b40426c0d2.svg",
+    "index.html": "/index.html",
+    "main.fbc27851.css.map": "/static/css/main.fbc27851.css.map",
+    "main.983d0016.js.map": "/static/js/main.983d0016.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbc27851.css",
+    "static/js/main.983d0016.js"
+  ]
+}
